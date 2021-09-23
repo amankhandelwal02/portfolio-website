@@ -61,6 +61,13 @@ for (var i = 0; i < navLinks.length; i++) {
     loop: true
 });
 
+$(document).ready(function(){
+  $('.per').counterUp({
+    delay: 10,
+    time: 1200
+  });
+});
+
 
 
 
