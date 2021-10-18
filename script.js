@@ -90,8 +90,3 @@ $('.carousel').owlCarousel({
       }
   }
 });
-
-
-
-
-
