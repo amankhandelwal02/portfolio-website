@@ -71,7 +71,7 @@ nav .navbar .menu li{
 }
 .navbar .menu a:hover{
   color: #4070f4;
-  background-color: white;
+  background-color: #f0f8ff;
 }
 nav.sticky .menu a{
   color: #FFF;
