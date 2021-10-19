@@ -645,7 +645,7 @@ footer .text span a:hover{
     top: 0;
     background: #F0F8FF;
     height: 100vh;
-    max-width: 400px;
+    max-width: 300px;
     width: 100%;
     padding-top: 60px;
     flex-direction: column;
