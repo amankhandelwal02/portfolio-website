@@ -316,9 +316,11 @@ section .button button:hover{
 }
 
 /* My Services CSS */
-.services .boxes{
+.services .boxes,
+.contact .contact-content{
   display: flex;
   flex-wrap: wrap;
+  /* align-items: center; */
   justify-content: space-between;
 }
 .services .boxes .box{
@@ -447,14 +449,10 @@ section .button button:hover{
 }
 
 /* contact section styling */
+
 /* .contact{
   background: #F0F8FF;
 } */
-.contact-content{
-  margin: auto;
-  justify-content: space-between;
-  display: flex;
-}
 .contact .contact-content .column{
   width: calc(50% - 30px);
 }
@@ -550,12 +548,12 @@ background: none;
 /* Footer CSS */
 footer{
   background: #4070f4;
-  padding: 15px 0;
+  padding: 7px 0;
   text-align: center;
   font-family: 'Poppins', sans-serif;
 }
 footer .text span{
-  font-size: 17px;
+  font-size: 15px;
   font-weight: 400;
   color: #fff;
 }
@@ -669,7 +667,8 @@ footer .text span a:hover{
     align-items: center;
     width: 100%;
   }
-  .services .boxes .box{
+  .services .boxes .box,
+  .contact .contact-content .column{
     margin: 20px 0;
     width: 100%;
   }
