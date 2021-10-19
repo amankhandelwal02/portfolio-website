@@ -261,7 +261,7 @@ section  .topic span{
   color: #4070f4;
 }
 .about-details .right p{
-  text-align: inherit;
+  text-align: justify;
   color: #0E2431;
 }
 section .button{
@@ -302,7 +302,7 @@ section .button button:hover{
  }
  .skills-details p{
    color: #0E2431;
-   text-align: inherit;
+   text-align: justify;
  }
 .skills .skills-details .experience{
   display: flex;
