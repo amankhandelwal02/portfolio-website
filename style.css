@@ -116,7 +116,7 @@ nav.sticky .media-icons a{
 nav .menu-btn,
 .navbar .menu .cancel-btn{
   position: absolute;
-  color: #fff;
+  color: #4070f4;
   right: 30px;
   top: 20px;
   font-size: 20px;
@@ -128,10 +128,10 @@ nav .menu-btn{
   color: #4070f4;
 }
 nav.sticky .menu-btn{
-  color: #FFF;
+  color: #F0F8FF;
 }
 .navbar .menu .menu-btn{
-  color: #fff;
+  color: #F0F8FF;
 }
 
 /* home section styling */
