@@ -643,7 +643,7 @@ footer .text span a:hover{
     position: fixed;
     left: -100%;
     top: 0;
-    background: #F0F8FF;
+    background: black;
     height: 100vh;
     max-width: 250px;
     width: 100%;
@@ -659,7 +659,7 @@ footer .text span a:hover{
   nav .navbar .menu a{
     font-size: 23px;
     display: block;
-    color: #4070f4;
+    color: white;
     margin: 10px 0;
     
   }
