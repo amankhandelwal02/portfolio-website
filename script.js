@@ -47,7 +47,7 @@ for (var i = 0; i < navLinks.length; i++) {
     // typing text animation script
     var typed = new Typed(".typing", {
       // strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
-      strings: ["MERN Stack Developer", "Frontend Developer", "Backend Developer", "Digital Marketer", "Freelancer"],
+      strings: ["MERN Stack Developer", "Frontend Developer", "Backend Developer", "Android Developer", "Digital Marketer", "Freelancer"],
       typeSpeed: 100,
       backSpeed: 60,
       loop: true
@@ -55,7 +55,7 @@ for (var i = 0; i < navLinks.length; i++) {
 
   var typed = new Typed(".typing-2", {
     // strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
-    strings: ["MERN Stack Developer", "Frontend Developer", "Backend Developer", "Digital Marketer", "Freelancer"],
+    strings: ["MERN Stack Developer", "Frontend Developer", "Backend Developer", "Android Developer", "Digital Marketer", "Freelancer"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
